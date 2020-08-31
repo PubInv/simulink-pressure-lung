@@ -12,9 +12,6 @@ efficient computation, with no apparent impact on the accuracy of the model for 
 
 # The Files
 
-
-[ventilator_LungBreathingCircuit.slx](https://github.com/PubInv/simulink-pressure-lung/blob/master/model/Lung%20Sim%20PVC/ventilator_LungBreathingCircuit.slx) is the original MIT lung model.
-
 [MITLungWorking_NC.slx](https://github.com/PubInv/simulink-pressure-lung/blob/master/model/Lung%20Sim%20PVC/MITLungWorking_NC.slx), .slx.original, and .slxc all correspond to the modified MIT lung model. 
 
 [RunLungSimulation.m](https://github.com/PubInv/simulink-pressure-lung/blob/master/model/Lung%20Sim%20PVC/RunLungSimulation.m): Code to run iterations of the lung model with parameters specified in the first block of code.
